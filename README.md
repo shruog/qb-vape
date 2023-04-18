@@ -1,5 +1,7 @@
 # qb-vape
 
+## my discord: [Shruog's Store Discord](https://discord.gg/MDNDXS29zC)
+
 ## installation 
 
 put qb-vape in any folder of your server
