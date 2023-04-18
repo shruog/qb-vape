@@ -2,6 +2,8 @@
 
 ## my discord: [Shruog's Store Discord](https://discord.gg/MDNDXS29zC)
 
+showcase: https://streamable.com/32z6bb
+
 ## installation 
 
 - put qb-vape in any folder of your server
