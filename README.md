@@ -1,7 +1,17 @@
 # qb-vape
 
-simple vape script item inspired in https://forum.cfx.re/t/release-standalone-vape-script/1057264
+## installation 
+
+put qb-vape in any folder of your server
+start server
+
+simple vape script item inspired in: [original script](https://forum.cfx.re/t/release-standalone-vape-script/1057264)
 
 create item Vape in qb-core/shared/items.lua
 
 ['vape'] 			 = {['name'] = 'vape', 				['label'] = 'Vape', 				['weight'] = 1000, 		['type'] = 'item', 		['image'] = 'vape.png', 		['unique'] = true, 		['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Vape'},
+
+
+usage:
+
+use item putting in any quick bar if you want stop use just press U key mapping or use command /stopvape
