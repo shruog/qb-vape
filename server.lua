@@ -14,8 +14,8 @@ QBCore.Functions.CreateUseableItem("vape", function(source, item)
     if not Player.Functions.GetItemByName('vape') then
         return
     end
-    
+
     TriggerClientEvent('QBCore:Notify', source, Lang:t("info.used_vape"), "success")
-    TriggerClientEvent("sh-vape:startUseVape", source)
+    TriggerClientEvent("qb-vape:startUseVape", source)
 end)
 
