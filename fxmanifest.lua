@@ -4,12 +4,7 @@ game 'gta5'
 
 author 'shruog'
 
-description 'this script is a vape system be item inspired and used sil-vape all credits to this guy'
-
-original_forum_post 'https://github.com'
-
-original_script_github 'https://github.com'
-
+description 'this script is a vape system by item'
 
 client_scripts {
     'client.lua'
