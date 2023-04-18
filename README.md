@@ -4,8 +4,8 @@
 
 ## installation 
 
-put qb-vape in any folder of your server
-start server
+- put qb-vape in any folder of your server
+- start server
 
 simple vape script item inspired in: [original script](https://forum.cfx.re/t/release-standalone-vape-script/1057264)
 
